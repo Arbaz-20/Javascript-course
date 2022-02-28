@@ -320,3 +320,5 @@ const persons2 = new persons('imran','sayyed','18-dec-2003');
 
 console.log(persons1.getfullnames());
 console.log(persons2.getbirthyears());
+
+//Javascript DOM(Document Object Model)
